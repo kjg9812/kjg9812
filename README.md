@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kjg9812
+- 👋 Hi, I’m Kevin.
 - 👀 I’m interested in  CODE
 - 🌱 I’m currently learning CODE. I'm working on projects related to APIs, Frontend, and Backend concepts. 
 - 💞️ I’m looking to collaborate on anything cool
