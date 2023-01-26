@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kevin.
 - 👀 I’m interested in  CODE
 - 🌱 I’m currently learning CODE. I'm working on projects related to APIs, Frontend, and Backend concepts. 
-- 💞️ I’m looking to collaborate on anything cool
+- 💞️ I’m looking to collaborate!
 
 <!---
 kjg9812/kjg9812 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
